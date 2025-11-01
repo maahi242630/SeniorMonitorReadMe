@@ -8,4 +8,4 @@ The purpose of this project is to create a  **non-intrusive passive monitoring d
 A major criteria for my proposed solution is that it must be **non-intrusive**. It must operate without requiring any work from the senior. Additionally, it must not invade the privacy of the senior.
 
 The prototype evolved with time and had multiple iterations.
-[Iteration 1] (https://github.com/maahi242630/seniormonitor/tree/main)
+[Iteration 1](https://github.com/maahi242630/seniormonitor/tree/main)
