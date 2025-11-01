@@ -10,7 +10,7 @@ A major criteria for my proposed solution is that it must be **non-intrusive**. 
 The prototype evolved with time and had multiple iterations.
 
 # **Prototype Details**
-The linked documents provides information about the problem, design constraints, design and Methodology, execution.
+The linked documents provides information about the problem, design constraints, design and Methodology, execution.<br/>
 [About the Project](https://docs.google.com/document/d/1Zia1dOKYD_Fthd--eugoCcRRx_E7b84Enq3M3UmAU7g/edit?tab=t.0)
 
 
