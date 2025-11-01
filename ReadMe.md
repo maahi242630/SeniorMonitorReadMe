@@ -9,3 +9,4 @@ A major criteria for my proposed solution is that it must be **non-intrusive**. 
 
 The prototype evolved with time and had multiple iterations.
 [Iteration 1](https://github.com/maahi242630/seniormonitor/tree/main)
+[The results are captured here](https://docs.google.com/document/d/1Zia1dOKYD_Fthd--eugoCcRRx_E7b84Enq3M3UmAU7g/edit?tab=t.0) 
